@@ -1,0 +1,7 @@
+Leeds : Derby : 2 : 0
+Leeds : Huddersfield Town : 1 : 0
+Man Untd : Man City : 2 : 3
+Middlesborough : Nottingham Forest : 2 : 1
+Arsenal : Liverpool : 0 : 3
+Leeds : Derby : 1 : 1
+Huddersfield : Derby : 0 : 1
